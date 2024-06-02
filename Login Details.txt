@@ -1,0 +1,41 @@
+----------------------------------- GMAIL ------------------------------------
+
+GMAIL ID : akAutomobile0103@gmail.com
+
+PASSWORD : akAutoshop@786
+
+
+----------------------------- HOSTING DETAILS ---------------------------------
+
+SERV00 USERNAME : akautomobile
+
+SERV00 PASSWORD : p!3J4l6cjXBjqGedc@kM
+
+URL : https://akautomobile.serv00.net/
+
+SERVER HOST : s3.serv00.com
+
+
+----------------------------- DATABASE DETAILS --------------------------------- 
+
+DATABASE LOGIN URL : https://pma.serv00.com/
+
+DATABASE SERVER : mysql3.serv00.com
+
+DATABASE USERNAME : m2324_ak
+
+DATABASE PASSWORD : akAutoshop@786
+
+DATABASE NAME : m2324_asms_db
+
+
+----------------------------- HOSTINGER DETAILS --------------------------------- 
+
+Host URL : https://akautomobile.studioone.tech/
+
+DATABASE NAME : u617307120_asms_db
+
+DATABASE USERNAME : u617307120_akautomobile
+
+DATABASE PASSWORD : akAutoshop@786
+
